@@ -1,0 +1,8 @@
+DELETE FROM ITEM_PEDIDO
+WHERE id_item = 2;
+
+DELETE FROM INGREDIENTE
+WHERE id_ingrediente = 3;
+
+DELETE FROM CLIENTE
+WHERE id_cliente = 3;
